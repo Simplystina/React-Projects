@@ -1,5 +1,7 @@
 # React-Projects
 The projects on this repository were built using react js. I built this projects in order to strengthen my knowledge of react.
+Each project has been made responsive using CSS
+
 
 [Birthdayproject](https://birthdays4fun.netlify.app/) || This was my first project, I built it to understand how useState works in react.
 
